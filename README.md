@@ -33,10 +33,10 @@ command to run if program contains helper info
 
 ## Authors
 
-Nabhya Jha
-Rosmi George
-Shrestha Sharma
-Kaliappan Yadav
+*Nabhya Jha
+*Rosmi George
+*Shrestha Sharma
+*Kaliappan Yadav
 
 
 ## Version History
