@@ -1,1 +1,1 @@
-# TYMiniProject
+# TY Mini Project
