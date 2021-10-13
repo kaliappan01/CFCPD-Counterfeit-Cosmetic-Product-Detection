@@ -1,6 +1,4 @@
-# TY Mini Project
-
-Counterfeit Cosmetic Product Detection
+# Counterfeit Cosmetic Product Detection
 
 ## Description
 
