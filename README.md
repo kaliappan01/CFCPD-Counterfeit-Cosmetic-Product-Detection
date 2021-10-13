@@ -4,22 +4,20 @@ Counterfeit Cosmetic Product Detection
 
 ## Description
 
-The main objective of the product is to design a framework CFCPD (Counterfeit Cosmetic 
-Product Detection) using Blockchain technology which is capable of tracing cosmetic products 
-throughout the supply chain in order to combat the issues of fake cosmetic products. Thus, the 
-product focuses on the preservation of the integrity of original products and provide reliability 
-during the entire supply chain process.
+The main objective is to design a framework CFCPD (CounterFeit Cosmetic Product Detection) using Blockchain technology which is capable of tracing cosmetic products throughout the supply chain in order to combat the issues of fake cosmetic products. By using Blockchain’s decentralized and transparency properties, and the assurance that each record cannot be forged on the Blockchain, consumers don’t need to fully rely on the middleman or distributors to check the authenticity of the purchased product but can also trace the product from the origin to the  destination themselves.Thus, our project will preserve the integrity of original products and provide reliability during the entire supply chain process.
+
+
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Nodejs,Solidity,Remix Platform
+* Metamask
 
 ### Installing
 
-* How/where to download your program
+* From the website or directly from the terminal
 * Any modifications needed to be made to files/folders
 
 ### Executing program
@@ -37,10 +35,7 @@ command to run if program contains helper info
 
 ## Authors
 
-* Nabhya Jha
-* Rosmi George
-* Shrestha Sharma
-* Kaliappan Yadav
+Contributors names and contact info
 
 
 ## Version History
