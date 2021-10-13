@@ -4,7 +4,11 @@ Counterfeit Cosmetic Product Detection
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The main objective of the product is to design a framework CFCPD (Counterfeit Cosmetic 
+Product Detection) using Blockchain technology which is capable of tracing cosmetic products 
+throughout the supply chain in order to combat the issues of fake cosmetic products. Thus, the 
+product focuses on the preservation of the integrity of original products and provide reliability 
+during the entire supply chain process.
 
 ## Getting Started
 
